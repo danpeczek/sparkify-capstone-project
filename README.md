@@ -25,7 +25,7 @@ Repository contains one jupyter notebook that presents steps done by me in the a
 
 ## Results <a name="results"></a>
 
-The findings can be found at the post available [here](link to published post).
+The findings can be found at the post available [here](https://medium.com/@danpeczek/how-to-predict-when-our-users-are-going-to-churn-8e6756ecc22e).
 
 ## Licensing, Authors and Acknowledgements <a name="licensing"></a>
 
